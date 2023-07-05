@@ -34,6 +34,12 @@ h2 {
     text-shadow: 0px 0px 2px rgba(127, 127, 127, 0.25);
 }
 
+.note {
+    color:white;
+    background-color: #C00;
+    text-align: center;
+}
+
 hr {
     width: 100%;
     margin: 0;
